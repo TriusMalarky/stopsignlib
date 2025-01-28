@@ -1,1 +1,1 @@
-package stopsign
+package github.com/TriusMalarky/stopsignlib
